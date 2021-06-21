@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-21T09:52:42 IST" name="Suite" finished-at="2021-06-21T09:52:49 IST" duration-ms="6420">
+    <groups>
+    </groups>
+    <test started-at="2021-06-21T09:52:42 IST" name="Test" finished-at="2021-06-21T09:52:49 IST" duration-ms="6420">
+      <class name="core.Ifelsedemo">
+        <test-method signature="f(java.lang.String)[pri:0, instance:core.Ifelsedemo@d4342c2]" started-at="2021-06-21T09:52:42 IST" name="f" finished-at="2021-06-21T09:52:49 IST" duration-ms="6373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- core.Ifelsedemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
